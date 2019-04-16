@@ -1,6 +1,6 @@
 <?php
 
-namespace stevesimpson\querybuilder;
+namespace SteveSimpson\querybuilder;
 
 use yii\web\AssetBundle;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace stevesimpson\querybuilder\tests\unit;
+namespace SteveSimpson\querybuilder\tests\unit;
 
 use yii\base\NotSupportedException;
 use Yii;

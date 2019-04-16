@@ -28,6 +28,6 @@
         "phpunit/phpunit": "3.7.*"
     },
     "autoload": {
-        "psr-4": { "stevesimpson\\querybuilder\\": "" }
+        "psr-4": { "SteveSimpson\\querybuilder\\": "" }
     }
 }
