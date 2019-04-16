@@ -1,9 +1,9 @@
 <?php
 
 
-namespace leandrogehlen\querybuilder\tests\unit;
+namespace stevesimpson\querybuilder\tests\unit;
 
-use leandrogehlen\querybuilder\Translator;
+use stevesimpson\querybuilder\Translator;
 
 class TranslatorTest extends TestCase
 {
